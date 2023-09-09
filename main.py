@@ -29,7 +29,9 @@ def finalcomb():
     files = ex.genFilePath(eachouts) 
     return ex.combineCSV(files,'final')
 
-#preprocess()
-#file, _ = finalcomb()
+preprocess()
+file, _ = finalcomb()
 file = 'outputs/csv/final.csv'
 ex.filter_search_volume(file)
+file='outputs/csv/modvol.csv'
+ex.keywords_to_txt(file,'kw')
