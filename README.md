@@ -1,50 +1,26 @@
 <div align="center">
 
-# [Title] - [short desc]
+# Keyword Filter Utility - Optimize Your SEO Content with Top Performing Keywords
 
-<p id="intro">[This is a placeholder paragraph. Here some introductory text or describe the content that will eventually go in this section. This text is meant to give a sense of how the final content will look in the design.]
-</p>
+<p id="intro">This project is a powerful tool for SEO professionals to filter and retain only the top-performing keywords. It allows you to set a threshold for the number of top keywords and outputs the results in CSV, Excel, or text format. This filtered keyword list can be used to generate high-quality content with LLM models, enhancing SEO efforts.</p>
 
 ### Supported Platforms
 
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)]()
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
-[![Node JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]()
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
 
 ---
-
-[uname-holder/reponame-holder] [npm-name-holder] [wf-holder] - for test&build
 
 <p>
 
 <span>
-  <a href="https://github.com/uname-holder/reponame-holder/commits/main">
-    <img src="https://img.shields.io/github/last-commit/uname-holder/reponame-holder?display_timestamp=committer&style=for-the-badge&label=Updated%20On" alt="GitHub last commit"/>
+  <a href="https://github.com/darsan-in/SEO-KW-Filter/commits/main">
+    <img src="https://img.shields.io/github/last-commit/darsan-in/SEO-KW-Filter?display_timestamp=committer&style=for-the-badge&label=Updated%20On" alt="GitHub last commit"/>
   </a>
 </span>
 
 <span>
   <a href="">
-    <img src="https://img.shields.io/github/commit-activity/m/uname-holder/reponame-holder?style=for-the-badge&label=Commit%20Activity" alt="GitHub commit activity"/>
-  </a>
-</span>
-
-</p>
-
-<p>
-
-<span>
-  <a href="https://github.com/uname-holder/reponame-holder/actions/workflows/wf-holder.yml">
-    <img src="https://img.shields.io/github/actions/workflow/status/uname-holder/reponame-holder/wf-holder.yml?style=for-the-badge&label=Build%20Status" alt="GitHub Actions Build Status"/>
-  </a>
-</span>
-
-<span>
-  <a href="https://github.com/uname-holder/reponame-holder/actions/workflows/wf-holder.yml">
-    <img src="https://img.shields.io/github/actions/workflow/status/uname-holder/reponame-holder/wf-holder.yml?style=for-the-badge&label=Test%20Status" alt="GitHub Actions Test Status"/>
+    <img src="https://img.shields.io/github/commit-activity/m/darsan-in/SEO-KW-Filter?style=for-the-badge&label=Commit%20Activity" alt="GitHub commit activity"/>
   </a>
 </span>
 
@@ -56,13 +32,13 @@
 
 <span>
   <a href="LICENSE">
-    <img src="https://img.shields.io/github/license/uname-holder/reponame-holder?style=for-the-badge&label=License" alt="GitHub License"/>
+    <img src="https://img.shields.io/github/license/darsan-in/SEO-KW-Filter?style=for-the-badge&label=License" alt="GitHub License"/>
   </a>
 </span>
 
 <span>
-  <a href="https://github.com/uname-holder/reponame-holder/releases">
-    <img src="https://img.shields.io/github/v/release/uname-holder/reponame-holder?include_prereleases&sort=date&display_name=tag&style=for-the-badge&label=Latest%20Version" alt="GitHub Release"/>
+  <a href="https://github.com/darsan-in/SEO-KW-Filter/releases">
+    <img src="https://img.shields.io/github/v/release/darsan-in/SEO-KW-Filter?include_prereleases&sort=date&display_name=tag&style=for-the-badge&label=Latest%20Version" alt="GitHub Release"/>
   </a>
 </span>
 
@@ -71,8 +47,8 @@
 <p>
 
 <span>
-  <a href="https://www.codefactor.io/repository/github/uname-holder/reponame-holder/issues/main">
-    <img src="https://img.shields.io/codefactor/grade/github/uname-holder/reponame-holder?style=for-the-badge&label=Code%20Quality%20Grade" alt="CodeFactor Grade"/>
+  <a href="https://www.codefactor.io/repository/github/darsan-in/SEO-KW-Filter/issues/main">
+    <img src="https://img.shields.io/codefactor/grade/github/darsan-in/SEO-KW-Filter?style=for-the-badge&label=Code%20Quality%20Grade" alt="CodeFactor Grade"/>
   </a>
 </span>
 
@@ -84,21 +60,9 @@
 
 <span>
   <a href="">
-    <img src="https://img.shields.io/npm/d18m/npm-name-holder?style=for-the-badge&label=Downloads%20On%20NPM" alt="NPM Downloads"/>
+    <img src="https://img.shields.io/github/stars/darsan-in/SEO-KW-Filter?style=for-the-badge&label=Stars" alt="GitHub Repo stars"/>
   </a>
 </span>
-
-<span>
-  <a href="">
-    <img src="https://img.shields.io/github/stars/uname-holder/reponame-holder?style=for-the-badge&label=Stars" alt="GitHub Repo stars"/>
-  </a>
-</span>
-
-</p>
-
----
-
-<p>
 
 <span>
   <a href="https://github.com/sponsors/darsan-in">
@@ -118,27 +82,28 @@
 - [Use Cases](#use-cases-)
 - [Friendly request to users](#-friendly-request-to-users)
 
-- [Installation - Step-by-Step Guide](#installation---step-by-step-guide-)
 - [Usage](#usage)
-- [In-Action](#in-action-)
 
 - [License](#license-%EF%B8%8F)
 - [Contributing to Our Project](#contributing-to-our-project-)
-- [Website](#website-)
 
 - [Contact Information](#contact-information)
-- [Credits](#credits-)
 
 ## Features and Benefits ✨
 
-- [f1]
-- [f2]
-- [fn]
+- **Customizable Threshold:** Set the number of top-performing keywords you want to retain.
+- **Multiple Output Formats:** Export results in CSV, Excel, or text format based on your needs.
+- **LLM Integration:** Use the filtered keywords directly with LLM models for content creation.
+- **Versatile Input Sources:** Combine proposition, long-tail, short-tail, and standard keywords into a single file.
+- **Efficient Workflow:** Input data is sourced from Neil Patel's UberSuggest, ensuring relevant and high-quality keywords.
+- **Time-Saving:** Streamline your SEO efforts by focusing on the best keywords without manual filtering.
 
 ## Use Cases ✅
 
-- [usecase 1]
-- [use case 2]
+- **Content Generation:** Utilize the text output to feed LLM models for generating SEO-optimized content.
+- **SEO Campaigns:** Focus on the top-performing keywords for more effective SEO strategies.
+- **Keyword Analysis:** Analyze and compare top keywords across different categories.
+- **Client Reports:** Generate easy-to-read reports for clients, showcasing the top keywords for their niche.
 
 ---
 
@@ -156,32 +121,22 @@ Thank you for being part of this journey. Your support means the world to us. �
 
 ---
 
-## Installation - Step-by-Step Guide 🪜
-
-[Installation instructions here]
-
-- **Step 1:**
-- **Step 2:**
-- **Step 3:**
-- **Step 4:**
-- **Step 5:**
-
 ## Usage
 
-- [purpose heading]
-  [Demonstration here]
+- **Step 1:** Clone this repo.
 
 ```bash
-demo
+git clone https://github.com/darsan-in/SEO-KW-Filter.git
 ```
 
-## In-Action 🤺
-
-[video] or [gif] or [image]
+- **Step 2:** Store your keyword data in `dataset`, it can be extracted from [Ubersuggest](https://neilpatel.com/ubersuggest/)
+- **Step 3:** Now run the `main.py` program.
+- **Step 4:** Proceed your number of top performing keyword you want.
+- **Step 4:** Now output would be stored inside `outputs` folder.
 
 ## License ©️
 
-This project is licensed under the [Apache License 2.0 or GNU General Public License v3.0 or MIT](LICENSE).
+This project is licensed under the [MIT](LICENSE).
 
 ## Contributing to Our Project 🤝
 
@@ -195,17 +150,9 @@ We deeply appreciate everyone who contributes or raises issues—your efforts ar
 
 Thank you for being part of this journey!
 
-## Website 🌐
-
-<a id="url" href="https://darsan.in">[https://darsan.in]</a>
-
 ## Contact Information
 
 For any questions, please reach out via hello@darsan.in or [LinkedIn](https://www.linkedin.com/in/darsan-in/).
-
-## Credits 🙏🏻
-
-[credits to lib maintainers/creators]
 
 ---
 
@@ -278,10 +225,24 @@ For any questions, please reach out via hello@darsan.in or [LinkedIn](https://ww
 #### Topics
 
 <ul id="keywords">
-
-<li>A</li>
-<li>B</li>
-<li>C</li>
-<li>D</li>
-
+<li>keyword filtering</li>
+<li>top-performing keywords</li>
+<li>SEO content generation</li>
+<li>UberSuggest integration</li>
+<li>LLM content creation</li>
+<li>SEO optimization tool</li>
+<li>CSV export</li>
+<li>Excel export</li>
+<li>text file export</li>
+<li>keyword analysis</li>
+<li>SEO utility</li>
+<li>proposition keywords</li>
+<li>long-tail keywords</li>
+<li>short-tail keywords</li>
+<li>SEO automation</li>
+<li>Neil Patel keywords</li>
+<li>SEO strategy</li>
+<li>client SEO reports</li>
+<li>keyword report generation</li>
+<li>content marketing</li>
 </ul>
